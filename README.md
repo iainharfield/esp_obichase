@@ -14,8 +14,9 @@ A chase game for dogs
    LCD 1602
    MDC30 R2: Motor Speed Controller
    AndyMark, am-0255 DC Motor 
+   ESP32
    RC receiver using two channels:
     a channel to control direction and speed -255 to + 255
     a channel to contol saftey  - arm or disarm
-     
+
 
