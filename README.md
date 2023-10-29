@@ -13,7 +13,9 @@
   
 ### Uses:
 - LCD 1602
-- MDC30 R2: Motor Speed Controller (https://www.cytron.io/p-30amp-5v-30v-dc-motor-driver)
+- MDC30 R2: Motor Speed Controller 
+    - https://www.cytron.io/p-30amp-5v-30v-dc-motor-driver 
+    - https://docs.google.com/document/d/178uDa3dmoG0ZX859rWUOS2Xyafkd8hSsSET5-ZLXMYQ/view
 - AndyMark, am-0255 DC Motor 
 - ESP32
 - RC receiver using two channels:
