@@ -17,7 +17,7 @@
 - AndyMark, am-0255 DC Motor 
 - ESP32
 - RC receiver using two channels:
--- a channel to control direction and speed -255 to + 255
--- a channel to contol saftey  - arm or disarm
+    - a channel to control direction and speed -255 to + 255
+    - a channel to contol saftey  - arm or disarm
 
 
