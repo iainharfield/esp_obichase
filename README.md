@@ -16,7 +16,8 @@
 - MDC30 R2: Motor Speed Controller 
     - https://www.cytron.io/p-30amp-5v-30v-dc-motor-driver 
     - https://docs.google.com/document/d/178uDa3dmoG0ZX859rWUOS2Xyafkd8hSsSET5-ZLXMYQ/view
-- AndyMark, am-0255 DC Motor 
+- AndyMark, am-0255 DC Motor
+    - https://www.andymark.com/products/2-5-in-cim-motor
 - ESP32
 - RC receiver using two channels:
     - a channel to control direction and speed -255 to + 255
