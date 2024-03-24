@@ -250,7 +250,8 @@ void loop()
     else
     {
       //PS4 contoller range is +/-127
-      ch1Value = map( PS4.RStickY(), -127, 127, -249, 249);
+      //ch1Value = map( PS4.RStickY(), -127, 127, -249, 249);
+      ch1Value = map( PS4.RStickY(), -127, 127, -40, 40);
       if (ch1Value <= IDLE_TOLERENCE && ch1Value >= -IDLE_TOLERENCE)   // PS4 contoller does not seem to zero
             ch1Value = 0; 
     }
